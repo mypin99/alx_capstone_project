@@ -44,7 +44,11 @@ For live demos and screenshots:
 ### Flowchart
 
 In this section, a flowchart diagram is used to visually represents the project's design and workflow. It provides an easy-to-understand overview of how the project's components interact and the steps involved in its execution:
-<a href="#flowchart> <img src="../images/Portfolio Flowchart.png" alt="Flowchart"> </a>
+<div>
+<nav>
+<a href="#flowchart"> <img src="../images/Portfolio Flowchart.png"> alt="Portfolio"> </a>
+</nav>
+</div>
 
 ## Roadmap and Future Enhancements:
 
