@@ -78,4 +78,4 @@ Feel free to get in touch with me:
 - [LinkedIn](https://www.linkedin.com/in/lagat-jepkorir-00620023a)
 - Portfolio Website:  <a href="https://htmlpreview.github.io/?http://127.0.0.1:5500/index.html#project"> click here, a rendered website</a> for a preview!
 
-I'm excited to connect and share more about my work and experiences.
+I'm excited to connect and share more about my work and experiences and also look forward for your reviews
