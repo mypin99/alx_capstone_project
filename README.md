@@ -8,6 +8,7 @@
   - [Technologies Used](#technologies-used)
   - [Screenshots or Demo](#screenshots-or-demo)
      - [Figma design](#figma-design)
+     -[Live Demo](#live-demo)
      - [Flowchart](#flowchart)
   - [Roadmap and Future enhancements](#roadmap-and-future-enhancements)
   - [Contact Information](#contact-information)
@@ -41,14 +42,16 @@ My personal portfolio website is designed to showcase my skills, experiences, an
 
 For live demos and screenshots:
 ### Figma design
+[Figma Prototype](https://www.figma.com/file/TMs8liLfK1tMTlpAKcr8vg/portfolio-website?type=design&node-id=0%3A1&mode=design&t=mNCzLidqdK9VFqMv-1)
+
+---
+### Live Demo
+[Video Demo ](https://drive.google.com/file/d/1UQhHcVzYHiKTmB3jvBV-PFhHb0yq5yy8/view?usp=sharing)
 ### Flowchart
 
 In this section, a flowchart diagram is used to visually represents the project's design and workflow. It provides an easy-to-understand overview of how the project's components interact and the steps involved in its execution:
-<div>
-<nav>
-<a href="#flowchart"> <img src="../images/Portfolio Flowchart.png"> alt="Portfolio"> </a>
-</nav>
-</div>
+
+<img src="images/Portfolio Flowchart.png>
 
 ## Roadmap and Future Enhancements:
 
@@ -69,10 +72,10 @@ In the future, I plan to enhance my personal portfolio website with the followin
 
 Feel free to get in touch with me:
 
-- **Author**: Derick Ogutu
-- **Email**: ogutuderick4@gmail.com
-- LinkedIn: #
-- GitHub: #
-- Portfolio Website: #
+- **Author**: Jepkorir Lagat
+- **Email**: jlagat007@gmail.com
+- [Twitter](https://www.twitter.com/jepkor1r)
+- [LinkedIn](https://www.linkedin.com/in/lagat-jepkorir-00620023a)
+- Portfolio Website:  <a href="https://htmlpreview.github.io/?http://127.0.0.1:5500/index.html#project"> click here, a rendered website</a> for a preview!
 
 I'm excited to connect and share more about my work and experiences.
