@@ -51,7 +51,7 @@ For live demos and screenshots:
 
 In this section, a flowchart diagram is used to visually represents the project's design and workflow. It provides an easy-to-understand overview of how the project's components interact and the steps involved in its execution:
 
-<img src="images/Portfolio Flowchart.png>
+![Flowchart](./IMAGES/Portfolio%20Flowchart.png)
 
 ## Roadmap and Future Enhancements:
 
@@ -72,9 +72,9 @@ In the future, I plan to enhance my personal portfolio website with the followin
 
 Feel free to get in touch with me:
 
-- **Author**: Jepkorir Lagat
-- **Email**: jlagat007@gmail.com
-- [Twitter](https://www.twitter.com/jepkor1r)
+- **Author**: derick ogutu
+- **Email**: ogutuderick4@gmail.com
+- [Twitter](https://www.twitter.com/derick)
 - [LinkedIn](https://www.linkedin.com/in/lagat-jepkorir-00620023a)
 - Portfolio Website:  <a href="https://htmlpreview.github.io/?http://127.0.0.1:5500/index.html#project"> click here, a rendered website</a> for a preview!
 
