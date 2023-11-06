@@ -44,7 +44,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(../ASSETS/IMAGES/background-image.png);
+    background-image: url(../DERRY/IMAGES/background-image.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -551,7 +551,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(../ASSETS/IMAGES/smallbackground-image.png);
+        background-image: url(../DERRY/IMAGES/smallbackground-image.jpg);
     }
 
     .header-container {
