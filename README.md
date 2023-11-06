@@ -74,8 +74,8 @@ Feel free to get in touch with me:
 
 - **Author**: derick ogutu
 - **Email**: ogutuderick4@gmail.com
-- [Twitter](https://www.twitter.com/derick)
-- [LinkedIn](https://www.linkedin.com/in/lagat-jepkorir-00620023a)
-- Portfolio Website:  <a href="https://htmlpreview.github.io/?http://127.0.0.1:5500/index.html#project"> click here, a rendered website</a> for a preview!
+- [Twitter](https://twitter.com/deckoruzze)
+- [LinkedIn](https://www.linkedin.com/in/derick-ogutu-636065202/)
+- Portfolio Website:  <a href="https://mypin99.github.io/alx_capstone_project/"> click here, a rendered website</a> for a preview!
 
 I'm excited to connect and share more about my work and experiences and also look forward for your reviews
