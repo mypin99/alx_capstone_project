@@ -46,7 +46,7 @@ For live demos and screenshots:
 
 ---
 ### Live Demo
-[Video Demo ](https://drive.google.com/file/d/1UQhHcVzYHiKTmB3jvBV-PFhHb0yq5yy8/view?usp=sharing)
+[Video Demo ]()
 ### Flowchart
 
 In this section, a flowchart diagram is used to visually represents the project's design and workflow. It provides an easy-to-understand overview of how the project's components interact and the steps involved in its execution:
