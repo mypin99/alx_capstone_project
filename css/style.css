@@ -13,7 +13,7 @@
 } 
 
 ::-webkit-scrollbar-thumb {
-    background: #B70CF7;
+    background: #91f70c;
     border-radius: 5rem;
 }
 
@@ -83,7 +83,7 @@ nav ul li a::after {
     content: '';
     width: 0;
     height: 3px;
-    background: #AC0DAC;
+    background: #91f70c;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -111,7 +111,7 @@ nav ul li a:hover::after {
 }
 
 .header-title h1 span {
-    color: #AC0DAC;
+    color: #91f70c;
 }
 
 .social-icons {
@@ -122,7 +122,7 @@ nav ul li a:hover::after {
     text-decoration: none;
     font-size: 3opx;
     margin-right: 15px;
-    color: #AC0DAC;
+    color: #91f70c;
     display: inline-block;
     transition: transform 0.5s;
 }
@@ -142,7 +142,7 @@ nav ul li a:hover::after {
 
 #about {
     padding: 40px 0;
-    background-color: #AC0DAC;
+    background-color:#91f70c ;
     color: #ffffff;
 }
 
@@ -198,7 +198,7 @@ nav ul li a:hover::after {
     content: '';
     width: 0;
     height: 3px;
-    background: #bb50b6;
+    background: #91f70c;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -239,7 +239,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:#AC0DAC;
+    color:#91f70c;
     font-size: 15px;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -279,7 +279,7 @@ nav ul li a:hover::after {
     height: 100%;
     position: absolute;
     left: 0;
-    background: #AC0DAC;
+    background: #91f70c;
     border-radius: 25px;
     box-shadow: #868485;
 }
@@ -333,7 +333,7 @@ nav ul li a:hover::after {
 
 #project {
     padding: 50px 0;
-    background-color: #AC0DAC;
+    background-color: #91f70c;
 }
 
 .project-title{
@@ -369,7 +369,7 @@ nav ul li a:hover::after {
 .layer {
     width: 100%;
     height: 0%;
-    background: linear-gradient(rgb(31, 30, 30), #AC0DAC);
+    background: linear-gradient(rgb(31, 30, 30), #91f70c);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -398,7 +398,7 @@ nav ul li a:hover::after {
     text-decoration: none;
     font-size: 18px;
     line-height: 60px;
-    background-color: #AC0DAC;
+    background-color: #91f70c;
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -417,7 +417,7 @@ nav ul li a:hover::after {
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #c01dc0;
+    border: 1px solid #91f70c;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -426,7 +426,7 @@ nav ul li a:hover::after {
 }
 
 .button:hover {
-    background: #AC0DAC;
+    background: #91f70c;
 }
 /*===================================================== End of Projects Section =====================================*/
 
@@ -441,7 +441,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:#AC0DAC;
+    color:#91f70c;
     font-size: 15px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -473,7 +473,7 @@ nav ul li a:hover::after {
 
 form input, form textarea {
     width: 100%;
-    border-color: #AC0DAC;
+    border-color: #91f70c;
     padding: 15px;
     margin: 15px 0;
     color: #000000;
@@ -485,7 +485,7 @@ form input, form textarea {
 
 .button.button2 {
     display: inline-block;
-    background: #AC0DAC;
+    background: #91f70c;
     color: #ffffff;
 }
 
@@ -509,7 +509,7 @@ form .button2 {
 
 
 .contact-me p i{
-    color: #AC0DAC;
+    color: #91f70c;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -522,7 +522,7 @@ form .button2 {
 #footer {
     padding: 10px 10%;
     margin: 0 auto;
-    background-color: #AC0DAC;
+    background-color: #91f70c;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -534,7 +534,7 @@ footer a {
     display: inline-flex;
     justify-content: center;
     background-color: #ffffff;
-    color: #B70CF7;
+    color: #91f70c;
     padding: .6rem;
     border-radius: 5px;
 }
@@ -580,7 +580,7 @@ nav .fa-solid{
     }
     
     nav ul {
-        background: #AC0DAC;
+        background: #91f70c;
         position: fixed;
         top: 0;
         right: -200px;
@@ -759,6 +759,6 @@ nav .fa-solid{
         box-shadow: none;
     }
     100% {
-        background: #AC0DAC;
+        background: #91f70c;
     }
 }
